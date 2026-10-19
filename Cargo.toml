@@ -1,0 +1,10 @@
+[package]
+name = "try-to-get-rusty"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "try-to-get-rusty"
+path = "main.rs"
